@@ -1,0 +1,7 @@
+{
+  "name": "Sony Alpha Portrait Flash",
+  "description": "Premium portrait enhancement tool powered by Gemini 2.5 Flash, specializing in Sony A1 quality re-rendering with strict identity preservation.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
